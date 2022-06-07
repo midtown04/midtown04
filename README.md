@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @midtown04
-- 👀 I’m interested in becoming a front-end, full stack or software engineer.  
+- 👀 I’m interested in becoming a front & backend development  
 - 🌱 I’m currently learning front end technology which includes: html, css, javascript, react and python. 
 - 💞️ I’m looking to collaborate on ... projects and learning 
 - 📫 How to reach me ...midtown04@gmail.com
