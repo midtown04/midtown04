@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @midtown04
 - 👀 I’m interested in becoming a front end development  
 - 🌱 I’m currently learning front end technology which includes: html, css, javascript, vanilla javascript and react. 
-- 💞️ I’m looking to collaborate on working and getting into the industry 
+- 💞️ I’m looking to collaborate on projects and networking
 - 📫 How to reach me ...midtown04@gmail.com
 
 <!---
